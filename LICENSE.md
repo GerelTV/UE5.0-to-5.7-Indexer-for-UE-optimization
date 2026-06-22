@@ -1,7 +1,7 @@
 # END-USER LICENSE AGREEMENT (EULA)
 
 **Copyright (c) 2026 [Gere1TV]**  
-**Project:** [UE5.0/5.7 - Gerel Performance CVars Reference]
+**Project:** [UE5.0_5.7 - Gerel Performance CVars Reference]
 
 Permission is hereby granted to any person obtaining a copy of this software and associated documentation files (the "Software"), to use the Software strictly for **PERSONAL AND NON-COMMERCIAL USE**.
 
